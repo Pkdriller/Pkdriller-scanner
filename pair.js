@@ -61,11 +61,21 @@ router.get('/', async (req, res) => {
 
 
 
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+━━━━━━━━━━━━━━━━━━━━━━━
 
-*CRISS-XBOT SESSION CONNECTED*
+★彡[ CRISS-XBOT SESSION CONNECTED ]彡★
 
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 Channel: https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x
+
+📞 Contact: https://wa.me/+254785392165
+
+💻 GitHub: https://github.com/Pkdriller
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+
 `
  await Pair_Code_By_France_King.sendMessage(Pair_Code_By_France_King.user.id,{text:FLASH_MD_TEXT},{quoted:session})
  

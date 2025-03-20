@@ -63,7 +63,7 @@ router.get('/', async (req, res) => {
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
-★彡[ PKXMD-BOT SESSION CONNECTED ]彡★ 
+★彡[ PKXMD BOT SESSION CONNECTED ]彡★
 
 ━━━━━━━━━━━━━━━━━━━━━━━
 
